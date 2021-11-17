@@ -8,7 +8,7 @@ I'm a wannabe programmer, a gamer, a movie-goer, a bathroom singer and a person 
 
 🙋‍♀️ This organization is mainly for homework that I did in GTB-2021 session. Before this, the most confident code I can write is `Hallo Welt`.
 
-*Quick Fact: I learnt German for four years and I needed to show it off to prove that I was not wasting my time learning German.*
+*Quick Fact: I learnt German for four years and I need to show it off to prove that I was not wasting my time learning German.*
 
 👩‍💻 Hopefully I can become a real coder at the end of this session.
 
